@@ -1,7 +1,4 @@
-# DEVELOPER BY @REDX_64
-
 import os
-import time
 import smtplib
 import ssl
 from email.message import EmailMessage
